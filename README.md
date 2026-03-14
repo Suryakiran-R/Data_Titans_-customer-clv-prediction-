@@ -3,6 +3,9 @@
 
 A complete machine learning system for predicting customer lifetime value (CLV) based on transaction data. The system allows users to input raw transaction details and get predictions for 30-day spend amounts, with automatic model retraining.
 
+## Output Screenshots
+https://drive.google.com/file/d/1RjOZO3LHEdOQ8P675p62LDTskCIsov4E/view?usp=sharing 
+
 ## Features
 
 - **Raw Transaction Input**: Users enter transaction details (Invoice, StockCode, Quantity, etc.) instead of pre-processed features
