@@ -6,7 +6,7 @@ from sklearn.metrics import r2_score
 import numpy as np
 
 # 1. Load data
-csv_path = "data/processed/customer_features.csv"
+csv_path = "preprocessing/customer_features.csv"
 df = pd.read_csv(csv_path)
 
 # 2. Downcast numeric columns
